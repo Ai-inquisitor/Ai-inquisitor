@@ -16,7 +16,7 @@ I'm Nikhil, Data Scientist 👨‍💻 working since 2019 🚀</div>
 - ❓ Ask me about anything related to ML/NLP/DL related technologies  
   
 
-- ⚡ Fun fact: A day humans controlled AI🤔  
+- ⚡ Fun fact: Imagining a day humans controlled by AI🤔  
   
 
 <br/>  
